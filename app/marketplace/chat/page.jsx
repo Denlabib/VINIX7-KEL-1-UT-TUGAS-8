@@ -3,6 +3,7 @@ import { Keyboard, Send } from "lucide-react";
 import { sendMessageChatAction } from "../actions";
 import MarketplaceShell from "../components/MarketplaceShell";
 import SubmitButton from "../components/SubmitButton";
+import { sendMessageAction } from "../actions";
 
 const contacts = [
   ["Meredith Gutkowski", "07.54 PM", "+5", "/images/avatar-1.png"],
