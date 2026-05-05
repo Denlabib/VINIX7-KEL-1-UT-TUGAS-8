@@ -1,6 +1,6 @@
 import Image from "next/image";
 import { Keyboard, Send } from "lucide-react";
-import { sendMessageChatAction } from "../actions";
+import { sendMessageAction } from "../actions";
 import MarketplaceShell from "../components/MarketplaceShell";
 import SubmitButton from "../components/SubmitButton";
 import { sendMessageAction } from "../actions";
